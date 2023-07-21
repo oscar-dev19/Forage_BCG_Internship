@@ -1,0 +1,7 @@
+
+2023-07-14 13:36:02,997 DEBUG matplotlib matplotlib data path: /usr/local/Caskroom/miniforge/base/envs/tf_m1/lib/python3.8/site-packages/matplotlib/mpl-data
+2023-07-14 13:36:03,002 DEBUG matplotlib CONFIGDIR=/Users/oscarlopez/.matplotlib
+2023-07-14 13:36:03,004 DEBUG matplotlib interactive is False
+2023-07-14 13:36:03,004 DEBUG matplotlib platform is darwin
+2023-07-14 13:36:03,066 DEBUG matplotlib CACHEDIR=/Users/oscarlopez/.matplotlib
+2023-07-14 13:36:03,069 DEBUG matplotlib.font_manager Using fontManager instance from /Users/oscarlopez/.matplotlib/fontlist-v330.json
